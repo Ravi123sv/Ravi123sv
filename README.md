@@ -28,7 +28,7 @@
 <!-- 🚀 Layer 2 - Tech Stack & Skills -->
 <h2 align="center">🚀 Tech Stack & Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,linux,docker,blender,unity&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,linux,docker,blender,unity,kalilinux&theme=light">
 </p>
 
 ---
