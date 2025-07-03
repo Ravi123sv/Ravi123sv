@@ -70,7 +70,7 @@
 
 ## 🎯 Goals (2025 and beyond)
 
-- 💼 Join a mission-driven tech company (like OpenAI)
+- 💼 Join a mission-driven tech company
 - 🔧 Build scalable AI-based SaaS tools (BizHub AI is first)
 - 💬 Improve technical communication & open-source documentation
 - 🌍 Make tech that solves problems, not just looks cool
