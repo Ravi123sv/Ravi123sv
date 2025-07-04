@@ -20,7 +20,7 @@
 
 ## 🚀 Recent Projects
 
-### 🔹 [BizHub AI](https://github.com/Ravi123sv/BizHub-AI)
+### 🔹 BizHub AI (Comming Soon)
 > Smart product ad filtering & scam detection from social media using AI.  
 - Link & photo input  
 - Verifies sellers  
