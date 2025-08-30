@@ -20,7 +20,7 @@
 
 ## 🚀 Recent Projects
 
-### 🔹 BizHub AI (Comming Soon)
+### 🔹 Biseco (Comming Soon)
 > Smart product ad filtering & scam detection from social media using AI.  
 - Link & photo input  
 - Verifies sellers  
