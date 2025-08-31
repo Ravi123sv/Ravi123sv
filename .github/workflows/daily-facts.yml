@@ -35,16 +35,15 @@ jobs:
           FACT: ${{ env.FACT }}
           SHA: ${{ env.SHA }}
         run: |
-          # Replace the placeholder line with the daily fact
           NEW_CONTENT=$(curl -s https://raw.githubusercontent.com/Ravi123sv/Ravi123sv/main/README.md \
             | awk -v fact="$FACT" '/### 🌟 Daily Fact/{print;getline;print "> _"fact"_";next}1' \
             | base64 | tr -d '\n')
 
-          # Correct heredoc usage: <<EOF on its own line, JSON starts on next line
-          curl -X PUT -H "Authorization: token $GH_PAT" \
-            -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/repos/Ravi123sv/Ravi123sv/contents/README.md \
-            -d @- <<EOF
+          # <<EOF must not be indented at all
+curl -X PUT -H "Authorization: token $GH_PAT" \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/repos/Ravi123sv/Ravi123sv/contents/README.md \
+  -d @- <<EOF
 {
   "message": "Update daily fact",
   "content": "$NEW_CONTENT",
