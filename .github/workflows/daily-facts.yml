@@ -1,4 +1,4 @@
-name: Daily Fact Update
+name: Daily Fact Update via API
 
 on:
   schedule:
@@ -9,8 +9,6 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y jq curl
 
@@ -20,16 +18,35 @@ jobs:
           FACT=$(curl -s https://uselessfacts.jsph.pl/api/v2/facts/random?language=en | jq -r '.text')
           echo "FACT=$FACT" >> $GITHUB_ENV
 
-      - name: Update README
-        run: |
-          awk -v fact="$FACT" '/### 🌟 Daily Fact/{print;getline;print "> _"fact"_";next}1' README.md > README.tmp && mv README.tmp README.md
-
-      - name: Commit & Push
+      - name: Get README SHA
+        id: readmesha
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update daily fact" || echo "No changes to commit"
-          git push https://$GH_PAT@github.com/Ravi123sv/Ravi123sv.git
+          SHA=$(curl -s -H "Authorization: token $GH_PAT" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/Ravi123sv/Ravi123sv/contents/README.md \
+            | jq -r '.sha')
+          echo "SHA=$SHA" >> $GITHUB_ENV
+
+      - name: Update README via API
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          FACT: ${{ env.FACT }}
+          SHA: ${{ env.SHA }}
+        run: |
+          # Update the placeholder line with the daily fact
+          NEW_CONTENT=$(curl -s https://raw.githubusercontent.com/Ravi123sv/Ravi123sv/main/README.md \
+            | awk -v fact="$FACT" '/### 🌟 Daily Fact/{print;getline;print "> _"fact"_";next}1' \
+            | base64 | tr -d '\n')
+          
+          curl -X PUT -H "Authorization: token $GH_PAT" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/Ravi123sv/Ravi123sv/contents/README.md \
+            -d @- << EOF
+{
+  "message": "Update daily fact",
+  "content": "$NEW_CONTENT",
+  "sha": "$SHA"
+}
+EOF
