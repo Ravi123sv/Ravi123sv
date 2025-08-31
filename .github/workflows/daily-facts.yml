@@ -22,15 +22,14 @@ jobs:
 
       - name: Update README
         run: |
-          # Replace the placeholder line with the actual fact using awk
           awk -v fact="$FACT" '/### 🌟 Daily Fact/{print;getline;print "> _"fact"_";next}1' README.md > README.tmp && mv README.tmp README.md
 
       - name: Commit & Push
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update daily fact"
-          git push https://x-access-token:$GH_TOKEN@github.com/Ravi123sv/Ravi123sv.git
+          git commit -m "Update daily fact" || echo "No changes to commit"
+          git push https://$GH_PAT@github.com/Ravi123sv/Ravi123sv.git
