@@ -35,7 +35,7 @@ jobs:
           FACT: ${{ env.FACT }}
           SHA: ${{ env.SHA }}
         run: |
-          # Update the placeholder line with the daily fact
+          # Replace the placeholder line with the daily fact
           NEW_CONTENT=$(curl -s https://raw.githubusercontent.com/Ravi123sv/Ravi123sv/main/README.md \
             | awk -v fact="$FACT" '/### 🌟 Daily Fact/{print;getline;print "> _"fact"_";next}1' \
             | base64 | tr -d '\n')
