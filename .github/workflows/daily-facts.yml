@@ -1,0 +1,32 @@
+name: Daily Fact Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Fetch Daily Fact
+        id: fact
+        run: |
+          FACT=$(curl -s https://uselessfacts.jsph.pl/api/v2/facts/random?language=en | jq -r '.text')
+          echo "FACT=$FACT" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          # Replace placeholder line under "Daily Fact"
+          sed -i "/### 🌟 Daily Fact/!b;n;c> _\"$FACT\"_" README.md
+
+      - name: Commit & Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update daily fact"
+          git push
