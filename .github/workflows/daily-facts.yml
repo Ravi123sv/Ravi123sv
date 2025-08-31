@@ -43,7 +43,7 @@ jobs:
           curl -X PUT -H "Authorization: token $GH_PAT" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/Ravi123sv/Ravi123sv/contents/README.md \
-            -d @- << EOF
+            -d @- <<EOF
 {
   "message": "Update daily fact",
   "content": "$NEW_CONTENT",
