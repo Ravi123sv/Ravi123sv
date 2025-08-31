@@ -2,7 +2,7 @@ name: Daily Fact Update via API
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
+    - cron: '0 0 * * *'  # daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -13,13 +13,11 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y jq curl
 
       - name: Fetch Daily Fact
-        id: fact
         run: |
           FACT=$(curl -s https://uselessfacts.jsph.pl/api/v2/facts/random?language=en | jq -r '.text')
           echo "FACT=$FACT" >> $GITHUB_ENV
 
       - name: Get README SHA
-        id: readmesha
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
