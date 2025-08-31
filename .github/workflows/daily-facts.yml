@@ -39,7 +39,6 @@ jobs:
             | awk -v fact="$FACT" '/### 🌟 Daily Fact/{print;getline;print "> _"fact"_";next}1' \
             | base64 | tr -d '\n')
 
-          # <<EOF must not be indented at all
 curl -X PUT -H "Authorization: token $GH_PAT" \
   -H "Accept: application/vnd.github.v3+json" \
   https://api.github.com/repos/Ravi123sv/Ravi123sv/contents/README.md \
