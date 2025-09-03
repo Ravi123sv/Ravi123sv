@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools._
+> _Only one person in two billion will live to be 116 or older._
