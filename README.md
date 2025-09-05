@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The pop you hear when you crack your knuckles is actually a bubble of gas burning._
+> _It has been estimated that humans use only 10% of their brain._
