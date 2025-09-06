@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _It has been estimated that humans use only 10% of their brain._
+> _A whale`s penis is called a dork._
