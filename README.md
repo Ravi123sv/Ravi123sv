@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Women blink nearly twice as much as men._
+> _In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing._
