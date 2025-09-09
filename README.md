@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing._
+> _1 in every 4 Americans has appeared someway or another on television._
