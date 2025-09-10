@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _1 in every 4 Americans has appeared someway or another on television._
+> _The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle._
