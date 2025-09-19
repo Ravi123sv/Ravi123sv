@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _111,111,111 x 111,111,111 = 12,345,678,987,654,321_
+> _If one spells out numbers, they would have to count to One Thousand before coming across the letter "A"._
