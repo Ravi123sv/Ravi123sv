@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _In Vermont, the ratio of cows to people is 10:1_
+> _William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth_
