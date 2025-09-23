@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier._
+> _The average person spends 12 weeks a year `looking for things`._
