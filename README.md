@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The average person spends 12 weeks a year `looking for things`._
+> _A crocodile cannot stick its tongue out._
