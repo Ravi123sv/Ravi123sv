@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The average person`s left hand does 56% of the typing._
+> _It is illegal to hunt camels in the state of Arizona._
