@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _It is illegal to hunt camels in the state of Arizona._
+> _The toothbrush was invented in China in 1498._
