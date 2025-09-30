@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The toothbrush was invented in China in 1498._
+> _Giraffes and rats can last longer without water than camels._
