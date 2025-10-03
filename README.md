@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _There`s a systematic lull in conversation every 7 minutes._
+> _The S in Harry S. Truman did not stand for anything._
