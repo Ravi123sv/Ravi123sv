@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The S in Harry S. Truman did not stand for anything._
+> _On average a hedgehog's heart beats 300 times a minute._
