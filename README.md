@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _On average a hedgehog's heart beats 300 times a minute._
+> _Mount Olympus Mons on Mars is three times the size of Mount Everest._
