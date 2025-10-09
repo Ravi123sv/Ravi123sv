@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  _
+> _The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity._
