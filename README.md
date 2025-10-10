@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity._
+> _The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida._
