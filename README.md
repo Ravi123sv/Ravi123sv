@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida._
+> _You were born with 300 bones, but by the time you are an adult you will only have 206._
