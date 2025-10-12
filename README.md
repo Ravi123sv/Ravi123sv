@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _You were born with 300 bones, but by the time you are an adult you will only have 206._
+> _Women manage the money and pay the bills in  75% of all Americans households._
