@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Women manage the money and pay the bills in  75% of all Americans households._
+> _The dot over the letter “i” is called a tittle._
