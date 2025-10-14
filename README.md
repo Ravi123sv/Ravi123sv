@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The dot over the letter “i” is called a tittle._
+> _Yo-yos were used as weapons by warriors in the Philippines in the 16th century._
