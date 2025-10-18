@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Kelsey Grammar sings and plays the piano for the theme song of Fraiser._
+> _Honey is the only food which does not spoil._
