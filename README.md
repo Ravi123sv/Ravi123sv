@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Honey is the only food which does not spoil._
+> _Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age._
