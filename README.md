@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age._
+> _The first toilet ever seen on television was on "Leave It to Beaver."_
