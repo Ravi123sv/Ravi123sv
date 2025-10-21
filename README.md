@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The first toilet ever seen on television was on "Leave It to Beaver."_
+> _You're born with 300 bones, but by the time you become an adult, you only have 206._
