@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth._
+> _Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest._
