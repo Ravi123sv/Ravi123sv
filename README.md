@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest._
+> _In France, a five year old child can buy an alcoholic drink in a bar_
