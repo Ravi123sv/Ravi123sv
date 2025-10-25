@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _In France, a five year old child can buy an alcoholic drink in a bar_
+> _40% of all people who come to a party in your home snoop in your medicine cabinet_
