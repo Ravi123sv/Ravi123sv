@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _40% of all people who come to a party in your home snoop in your medicine cabinet_
+> _An Olympic gold medal must contain 92.5 percent silver_
