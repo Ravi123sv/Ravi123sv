@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _An Olympic gold medal must contain 92.5 percent silver_
+> _315 entries in Webster’s 1996 dictionary were misspelled._
