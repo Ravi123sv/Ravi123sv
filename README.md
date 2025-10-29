@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Koalas never drink water. They get fluids from the eucalyptus leaves they eat._
+> _A duck's quack doesn't echo, and no one knows why._
