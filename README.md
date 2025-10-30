@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _A duck's quack doesn't echo, and no one knows why._
+> _The praying mantis is the only insect that can turn its head_
