@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The praying mantis is the only insect that can turn its head_
+> _There is a city called Rome on every continent._
