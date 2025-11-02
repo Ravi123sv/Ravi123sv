@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Intelligent people have more zinc and copper in their hair._
+> _Mr. Rogers is an ordained minister._
