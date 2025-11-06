@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The only capital letter in the Roman alphabet with exactly one end point is P. _
+> _In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined._
