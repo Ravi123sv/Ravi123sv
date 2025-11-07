@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined._
+> _The odds of being born male are about 51.2%, according to census._
