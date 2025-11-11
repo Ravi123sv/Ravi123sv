@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Camels chew in a figure 8 pattern._
+> _The only domestic animal not mentioned in the Bible is the cat. _
