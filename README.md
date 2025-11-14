@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The pop you hear when you crack your knuckles is actually a bubble of gas burning._
+> _Women blink nearly twice as much as men._
