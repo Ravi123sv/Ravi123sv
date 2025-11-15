@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Women blink nearly twice as much as men._
+> _Your tongue is the only muscle in your body that is attached at only one end._
