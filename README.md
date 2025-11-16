@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Your tongue is the only muscle in your body that is attached at only one end._
+> _It's possible to lead a cow upstairs...but not downstairs._
