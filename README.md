@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _It's possible to lead a cow upstairs...but not downstairs._
+> _"You" is the second most spoken English word_
