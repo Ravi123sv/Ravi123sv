@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _There are 240 dots on an arcade Pac-Man game_
+> _Nearly 80% of all animals on earth have six legs._
