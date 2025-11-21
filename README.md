@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Nearly 80% of all animals on earth have six legs._
+> _The Minneapolis phone book has 21 pages of Andersons._
