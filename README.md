@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The Minneapolis phone book has 21 pages of Andersons._
+> _Cher's last name was "Sarkissian." She changed it because no one could pronounce it._
