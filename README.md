@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played._
+> _Canadian researchers have found that Einstein's brain was 15% wider than normal._
