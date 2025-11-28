@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Canadian researchers have found that Einstein's brain was 15% wider than normal._
+> _A piece of paper can be folded no more then 9 times._
