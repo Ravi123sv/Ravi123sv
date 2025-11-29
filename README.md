@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _A piece of paper can be folded no more then 9 times._
+> _When sharks take a bite, their eyes roll back and their teeth jut out._
