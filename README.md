@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Barbie`s measurements, if she were life-size, would be 39-29-33._
+> _American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads._
