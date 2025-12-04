@@ -110,4 +110,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads._
+> _The angel falls in Venezuela are nearly 20 times taller than Niagara Falls._
