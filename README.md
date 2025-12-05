@@ -20,13 +20,6 @@
 
 ## 🚀 Recent Projects
 
-### 🔹 Biseco (before named as BizHub AI) (Coming Soon)
-> Smart product ad filtering & scam detection from social media using AI.  
-- Link & photo input  
-- Verifies sellers  
-- Intelligent results with filters  
-- OpenAI-style chat assistant
-
 ### 🔹 MS Water Plant System
 > Booking & delivery portal with customer-owner dashboards, maps, live chat.  
 - Owner can track all orders  
