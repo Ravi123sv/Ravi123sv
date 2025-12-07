@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle._
+> _More people are killed each year from bees than from snakes._
