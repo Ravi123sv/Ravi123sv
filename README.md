@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Canada makes up 6.67 percent of the Earth`s land area_
+> _70% of all boats sold are used for fishing._
