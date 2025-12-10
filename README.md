@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _70% of all boats sold are used for fishing._
+> _Andorra, a tiny country between France & Spain, has the longest average lifespan: 83.49 years._
