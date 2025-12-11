@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Andorra, a tiny country between France & Spain, has the longest average lifespan: 83.49 years._
+> _A cockroach can live several weeks with its head cut off!_
