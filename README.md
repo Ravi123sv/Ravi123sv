@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _A cockroach can live several weeks with its head cut off!_
+> _Barbie's full name is "Babara Millicent Roberts."_
