@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Barbie's full name is "Babara Millicent Roberts."_
+> _The average human eats 8 spiders in their lifetime at night._
