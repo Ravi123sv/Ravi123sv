@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Sex burns 360 calories per hour._
+> _A goldfish has a memory span of three seconds.  _
