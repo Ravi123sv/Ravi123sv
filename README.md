@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _A goldfish has a memory span of three seconds.  _
+> _A cat's jaw cannot move sideways._
