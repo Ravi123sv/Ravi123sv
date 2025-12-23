@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The people of France eat more cheese than any other country in the world._
+> _The giant squid has the largest eyes in the world. _
