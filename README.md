@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The giant squid has the largest eyes in the world. _
+> _A rat can last longer without water than a camel._
