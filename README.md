@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Between 2 and 3 jockeys are killed each year in horse racing._
+> _The "pound" key on your keyboard (#) is called an octotroph. _
