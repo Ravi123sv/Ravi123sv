@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The "pound" key on your keyboard (#) is called an octotroph. _
+> _Camels chew in a figure 8 pattern._
