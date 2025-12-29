@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Camels chew in a figure 8 pattern._
+> _There is approximately one chicken for every human being in the world._
