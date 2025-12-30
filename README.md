@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _There is approximately one chicken for every human being in the world._
+> _There is a hotel in Sweden built entirely out of ice; it is rebuilt every year._
