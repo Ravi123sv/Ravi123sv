@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin._
+> _Right-handed people live, on average; nine years longer than left handed people._
