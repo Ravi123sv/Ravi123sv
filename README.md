@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Right-handed people live, on average; nine years longer than left handed people._
+> _Illinois has the highest number of personalized license plates than any other state._
