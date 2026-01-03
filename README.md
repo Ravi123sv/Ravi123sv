@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Illinois has the highest number of personalized license plates than any other state._
+> _The sun is 330,330 times larger than the earth._
