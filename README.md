@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The sun is 330,330 times larger than the earth._
+> _Donkeys kill more people than plane crashes._
