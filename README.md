@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Donkeys kill more people than plane crashes._
+> _The Bible, the world's best-selling book, is also the world's most shoplifted book._
