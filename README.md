@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The Bible, the world's best-selling book, is also the world's most shoplifted book._
+> _When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city._
