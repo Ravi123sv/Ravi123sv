@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city._
+> _Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street._
