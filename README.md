@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street._
+> _The king of hearts is the only king without a mustache._
