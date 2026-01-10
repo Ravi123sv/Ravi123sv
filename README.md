@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _There is a city called Rome on every continent._
+> _In Raiders of the Lost Ark there is a wall carving of R2-D2 and C-3P0 behind the ark_
