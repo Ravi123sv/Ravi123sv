@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature._
+> _Elephants are the only animals that can`t jump._
