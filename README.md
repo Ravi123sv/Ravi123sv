@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Elephants are the only animals that can`t jump._
+> _The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area._
