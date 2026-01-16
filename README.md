@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The placement of a donkey's eyes in it’s' heads enables it to see all four feet at all times!_
+> _More than 90% of the Nicaraguan people are Roman Catholic._
