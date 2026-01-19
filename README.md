@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The only real person to be a PEZ head was Betsy Ross._
+> _Honey is the only natural food that is made without destroying any kind of life._
