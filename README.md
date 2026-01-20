@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Honey is the only natural food that is made without destroying any kind of life._
+> _There are a million ants for every person on Earth._
