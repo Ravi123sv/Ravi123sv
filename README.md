@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _There are a million ants for every person on Earth._
+> _The first McDonald's restaurant in Canada was in Richmond, British Columbia._
