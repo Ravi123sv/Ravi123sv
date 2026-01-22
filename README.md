@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The first McDonald's restaurant in Canada was in Richmond, British Columbia._
+> _Proportional to their size, cats have the largest eyes of all mammals._
