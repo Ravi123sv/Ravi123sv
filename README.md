@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Proportional to their size, cats have the largest eyes of all mammals._
+> _There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous._
