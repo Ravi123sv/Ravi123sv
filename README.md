@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous._
+> _The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  _
