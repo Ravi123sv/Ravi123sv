@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  _
+> _A rhinoceros horn is made of compacted hair._
