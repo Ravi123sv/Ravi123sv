@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _A rhinoceros horn is made of compacted hair._
+> _Astronaut Neil Armstrong first stepped on the moon with his left foot._
