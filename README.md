@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Astronaut Neil Armstrong first stepped on the moon with his left foot._
+> _Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder._
