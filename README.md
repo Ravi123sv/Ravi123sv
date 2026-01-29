@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _0.3% of all road accidents in Canada involve a Moose._
+> _Non-dairy creamer is flammable._
