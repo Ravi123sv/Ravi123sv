@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Non-dairy creamer is flammable._
+> _Shakespeare invented the words “assassination” and “bump.”_
