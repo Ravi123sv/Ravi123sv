@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _A shark is the only fish that can blink with both eyes._
+> _Giraffes have no vocal cords._
