@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Giraffes have no vocal cords._
+> _You can sail all the way around the world at latitude 60 degrees south._
