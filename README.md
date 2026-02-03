@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _You can sail all the way around the world at latitude 60 degrees south._
+> _It is illegal to eat oranges while bathing in California._
