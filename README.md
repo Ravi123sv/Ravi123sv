@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _A horse can look forward with one eye and back with the other._
+> _A snail can sleep for three years._
