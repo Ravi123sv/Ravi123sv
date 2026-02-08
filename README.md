@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _A crocodiles tongue is attached to the roof of its mouth._
+> _On average, 100 people choke to death on ballpoint pens every year._
