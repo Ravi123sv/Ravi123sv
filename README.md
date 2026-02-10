@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Elephants are the only mammals that cannot jump._
+> _An American urologist bought Napoleon’s penis for $40,000._
