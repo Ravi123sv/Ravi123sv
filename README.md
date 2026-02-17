@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Women blink nearly twice as much as men._
+> _If done perfectly, a rubix cube combination can be solved in 17 turns._
