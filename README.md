@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _At the height of its power in 400 BC, the Greek city of Sparta had 25,000 citizens and 500,000 slaves._
+> _An Olympic gold medal must contain 92.5 percent silver_
