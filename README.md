@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _An Olympic gold medal must contain 92.5 percent silver_
+> _The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails._
