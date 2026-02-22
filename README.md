@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Rubber bands last longer when refrigerated._
+> _Mel Blanc (the voice of Bugs Bunny) was allergic to carrots._
