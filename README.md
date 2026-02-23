@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Mel Blanc (the voice of Bugs Bunny) was allergic to carrots._
+> _A lion in the wild usually makes no more than 20 kills a year._
