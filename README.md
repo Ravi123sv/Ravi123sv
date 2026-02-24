@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _A lion in the wild usually makes no more than 20 kills a year._
+> _The most sensitive cluster of nerves is at the base of the spine._
