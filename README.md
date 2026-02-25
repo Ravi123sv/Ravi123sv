@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The most sensitive cluster of nerves is at the base of the spine._
+> _Two-thirds of the world`s eggplant is grown in New Jersey.  _
