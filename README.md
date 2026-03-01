@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Lee Harvey Oswald's cadaver tag sold at an auction for $6,600 in 1992._
+> _Chocolate can kill dogs; it directly affects their heart and nervous system._
