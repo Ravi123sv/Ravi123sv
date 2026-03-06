@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _On average people fear spiders more than they do death._
+> _The average woman consumes 6 lbs of lipstick in her lifetime._
