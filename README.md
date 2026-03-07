@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The average woman consumes 6 lbs of lipstick in her lifetime._
+> _Montpelier, Vermont is the only state capital without a McDonalds._
