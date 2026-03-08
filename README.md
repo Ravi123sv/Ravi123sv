@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Montpelier, Vermont is the only state capital without a McDonalds._
+> _A Boeing 747`s wingspan is longer than the Wright brother`s first flight._
