@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Icelanders consume more Coca-Cola per Capita than any other nation._
+> _The only domestic animal not mentioned in the Bible is the cat. _
