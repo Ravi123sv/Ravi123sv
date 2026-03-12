@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Golf courses cover 4% of North America._
+> _Coca-Cola would be green if coloring weren’t added to it._
