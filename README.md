@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The average person will accidentally eat just under a pound of insects every year._
+> _The plastic things on the end of shoelaces are called aglets._
