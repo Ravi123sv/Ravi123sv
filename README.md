@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The plastic things on the end of shoelaces are called aglets._
+> _The average American butt is 14.9 inches long._
