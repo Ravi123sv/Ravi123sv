@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _The average American butt is 14.9 inches long._
+> _There are more than 40,000 characters in the Chinese script._
