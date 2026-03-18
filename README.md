@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _There are more than 40,000 characters in the Chinese script._
+> _Leonardo Da Vinci invented the scissors, the helicopter, and many other present day items._
