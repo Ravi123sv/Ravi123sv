@@ -103,4 +103,4 @@
 > _"Don’t wait to be ready. Start building. You’ll get ready while doing."_  
 
 ### 🌟 Daily Fact
-> _Leonardo Da Vinci invented the scissors, the helicopter, and many other present day items._
+> _The longest recorded flight of a chicken is thirteen seconds._
